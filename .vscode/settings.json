@@ -1,0 +1,9 @@
+{
+    "conventionalCommits.scopes": [
+        "gitlab",
+        "styling",
+        "layout",
+        "components",
+        "pages"
+    ]
+}
